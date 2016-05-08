@@ -10,6 +10,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		// declaration and instantiation of objects/variables
+		//Git first program
+		
         WebDriver driver = new FirefoxDriver();
         String baseUrl = "http://newtours.demoaut.com";
         String expectedTitle = "Welcome: Mercury Tours";
